@@ -527,8 +527,8 @@ adminForm.addEventListener('submit', event => {
 
 particlesJS('particles-js', {
     particles: {
-        number: { value: 300, density: { enable: true, value_area: 800 } },
-        color: { value: '#06FF00' },
+        number: { value: 700, density: { enable: true, value_area: 800 } },
+        color: { value: '#0080C0' },
         shape: {
             type: 'circle',
             stroke: { width: 0, color: '#000000' },
